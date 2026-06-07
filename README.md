@@ -26,8 +26,6 @@ Hemos implementado un flujo completo de **Ingeniería de Datos (End-to-End)**:
 ---
 
 ### ¿Cómo usar este repositorio?
-1. **Datos:** Los scripts de procesamiento se encuentran en la carpeta de ETL.
-2. **Modelo:** El esquema relacional está documentado en los archivos SQL del repositorio.
-3. **Visualización:** El tablero interactivo permite la segmentación territorial por provincia y distrito para un análisis profundo.
+1. **Datos:** Algunos scripts sobre el ETL se encuentran el rama main.
 
 *Proyecto desarrollado en el marco de la Geotón Perú 2026.*
